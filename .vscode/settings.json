@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "hagl.h": "c",
+        "space_invaders.h": "c",
+        "stbutton.h": "c"
+    }
+}
